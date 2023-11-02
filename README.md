@@ -5,6 +5,7 @@ Execució ràpida dels diferents exemples i resolusions de problemes
 
 ## Windows ##
 ```bash
+.\run.ps1 cat.iesesteveterradas.mp06.uf1.exercicis.Main
 .\run.ps1 cat.iesesteveterradas.mp06.uf1.exemples.MainExemples
 
 # For PR11Main class
